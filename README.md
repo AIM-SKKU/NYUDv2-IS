@@ -2,13 +2,10 @@
 A dataset converted from NYUDv2 into COCO-style instance segmentation format
 
 ```
-Train : 795 images
-
-Val : 654 images
-
+Train   : 795 images
+Val     : 654 images
 Classes : 9
-
-Resolution : 640 × 480
+Size    : 640 × 480
 ```
 
 ## Data preparation
