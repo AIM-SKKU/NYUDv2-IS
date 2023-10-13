@@ -6,6 +6,7 @@ Train   : 795 images
 Val     : 654 images
 Classes : 9
 Size    : 640 × 480
+Sensor  : Kinect V1
 ```
 
 ## Data preparation
