@@ -1,7 +1,7 @@
 # NYUDv2-IS
-NYUDv2 dataset for COCO-style Instance Segmentation
+A dataset converted from NYUDv2 into COCO-style instance segmentation format
 
-## Dataset preparation
+## Data preparation
 https://drive.google.com/drive/folders/1sTvlA5n69tb0gJmAlyvOynNZfCl4dRoq?usp=sharing
 
 ```
@@ -20,18 +20,18 @@ NYUDv2/
 ## Data Format
 ```
 annotation{
-"id": int,
-"image_id": int,
-"category_id": int,
-"segmentation": [polygon],
-"area": float,
-"bbox": [x,y,width,height],
-"iscrowd": 0 or 1,
+    "id": int,
+    "image_id": int,
+    "category_id": int,
+    "segmentation": [polygon],
+    "area": float,
+    "bbox": [x,y,width,height],
+    "iscrowd": 0 or 1,
 }
 
 categories[{
-"id": int,
-"name": str,
-"supercategory": str,
+    "id": int,
+    "name": str,
+    "supercategory": str,
 }]
 ```
