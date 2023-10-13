@@ -1,6 +1,15 @@
 # NYUDv2-IS
 A dataset converted from NYUDv2 into COCO-style instance segmentation format
 
+Train : 795 images
+
+Val : 654 images
+
+Classes : 9
+
+Resolution : 640 × 480
+
+
 ## Data preparation
 https://drive.google.com/drive/folders/1sTvlA5n69tb0gJmAlyvOynNZfCl4dRoq?usp=sharing
 
