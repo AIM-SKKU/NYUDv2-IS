@@ -11,7 +11,6 @@ Sensor  : Kinect V1
 ```
 
 ## Data preparation
-https://drive.google.com/drive/folders/1sTvlA5n69tb0gJmAlyvOynNZfCl4dRoq?usp=sharing
 
 ```
 NYUDv2/
