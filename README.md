@@ -12,7 +12,7 @@ Sensor  : Kinect V1
 
 ## Data preparation
 
-NYUDv2 : https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdFEycWtVUmI4dlFya3FSZGtiUWg4cFloZ2dPP2U9U2dmRDRL/root/content
+NYUDv2 : https://api.onedrive.com/v1.0/shares/u!aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBdFEycWtVUmI4dlFybUp1ZURoUW15eGZKaFZiP2U9bE80TkZO/root/content
 
 ```
 NYUDv2/
